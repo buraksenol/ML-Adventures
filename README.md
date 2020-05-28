@@ -1,5 +1,5 @@
 # ML-Adventures
-machine learning "model-test" repo
+machine learning models for testing
 
 ----------------------------------------------------------------------------
 * [Naive Bayes Sınıflandırma Kullanarak Maaş Tahmini Yapan Model [adult.csv]](https://github.com/buraksenol/ML-Adventures/tree/master/Naive%20Bayes%20S%C4%B1n%C4%B1fland%C4%B1rma%20%C4%B0le%20Maa%C5%9F%20Tahmini%20%5Badult.csv%5D)
